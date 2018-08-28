@@ -8,7 +8,7 @@ namespace ExemploDictionary
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main(string[] args)  
         {
             /*O Dictionary por definição uma coleção de  KeyValuePair, ou seja,
              é uma coleção cujos itens possuem chave (identificador)
